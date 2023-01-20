@@ -23,10 +23,11 @@ This project seeks to explore the funding to Indian start-ups from 2018 to 2021 
 •	Headquarters: headquarters of the company
 
 # Hypothesis
+Null Hypothesis: Technology companies receive more funding than the others.
 
 # Conclusion
+Accept the null hypothesis that technology companies recieve more funding with 181 Bilion USD against 99 Billion USD for Non Tech companies. 
 
-# Recommendation
 
 
 
