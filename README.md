@@ -1,7 +1,6 @@
-# Data Analysis Project - Indian Startup Funding  Analysis (2018 - 2021) ✨
-
 ![image](./pic/image2.jpg)
 
+# Data Analysis Project - Indian Startup Funding  Analysis (2018 - 2021) ✨
 
 This project seeks to explore the funding to Indian start-ups from 2018 to 2021 to help entreprenuers who want to venture the Indian startup ecosystem make an informed decision.
 
