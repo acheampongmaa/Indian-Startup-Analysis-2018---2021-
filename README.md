@@ -1,4 +1,4 @@
-![image](./pic/image2.jpg)
+![image](./images/image2.jpg)
 
 # Data Analysis Project - Indian Startup Funding  Analysis (2018 - 2021) ✨
 
