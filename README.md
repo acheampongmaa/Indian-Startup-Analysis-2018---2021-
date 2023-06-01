@@ -1,4 +1,4 @@
-![image](./pic/image2.jpg)
+![image](./images/image2.jpg)
 
 # Data Analysis Project - Indian Startup Funding  Analysis (2018 - 2021) ✨
 
@@ -29,8 +29,8 @@ Null Hypothesis: Technology companies receive more funding than the others.
 # Conclusion
 The analysis showed that most startups were in the technology sector class with most of them in the financial technology (FinTech) sector. Hence, we can accept the null hypothesis that technology companies receive more funding than the rest of the sectors. 
 
-Kindly find attached the link to the article on this project
-https://medium.com/@qacheampong/introduction-75a7563d00ff
+Kindly find attached the link to the [Article](https://medium.com/@qacheampong/introduction-75a7563d00ff/) on this project.
+
 
 
 
